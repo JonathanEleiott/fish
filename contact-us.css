@@ -1,0 +1,13 @@
+main {
+  text-align: left;
+  margin: 20px 0;
+}
+
+input {
+  margin: 5px 0;
+}
+
+main > a:hover {
+  font-size:medium;
+  color:navy;
+}
